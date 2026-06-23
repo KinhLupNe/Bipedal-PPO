@@ -2,9 +2,11 @@
 A PyTorch implementation of Proximal Policy Optimization (PPO) to train a bipedal robot to walk in the `BipedalWalker-v3` Gymnasium environment.
 ## 🎥 Demo & Results
 *(Replace the link below with your actual GIF, video, or TensorBoard screenshot)*
-![BipedalWalker Demo](https://via.placeholder.com/600x400?text=Insert+Your+Robot+Walking+GIF+Here)
+![BipedalWalker Demo](<img width="1103" height="593" alt="image" src="https://github.com/user-attachments/assets/4ef4726a-3997-4f4a-be31-851d1df115cc" />
+)
 *(Optional: Add your TensorBoard convergence chart here)*
-![Training Curve](https://via.placeholder.com/600x300?text=Insert+TensorBoard+Chart+Here)
+![Training Curve](<img width="601" height="403" alt="pygamewindow2026-06-2317-23-11-ezgif com-crop" src="https://github.com/user-attachments/assets/e5be1518-9371-4bbe-9d89-24631829c603" />
+)
 ## ✨ Key Features
 - **Custom PPO from scratch:** Implemented entirely in PyTorch.
 - **GAE (Generalized Advantage Estimation):** Smooth advantage calculation ($\lambda = 0.95$).
