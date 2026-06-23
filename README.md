@@ -5,10 +5,10 @@ A PyTorch implementation of Proximal Policy Optimization (PPO) to train a bipeda
 ## 🎥 Demo & Results
 
 **Trained Agent in Action:**
-![BipedalWalker Demo](./img/pygamewindow2026-06-2317-23-11-ezgif.com-crop.gif)
+![BipedalWalker Demo](https://github.com/user-attachments/assets/e5be1518-9371-4bbe-9d89-24631829c603)
 
 **Training Convergence (TensorBoard):**
-![Training Curve](./img/z7967912467197_08e733f4da58cf8743f0c54181f3d2ec.jpg)
+![Training Curve](https://github.com/user-attachments/assets/4ef4726a-3997-4f4a-be31-851d1df115cc)
 
 ## ✨ Key Features
 - **Custom PPO from scratch:** Implemented entirely in PyTorch.
